@@ -1,0 +1,127 @@
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.AssemblyReference.cache
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.SuggestedBindingRedirects.cache
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.admin.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.developers.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Employee.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Form1.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Overview.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\Project_Hotel_Mangement_System_DBS.Properties.Resources.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Reservations.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_cust_login.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_login.resources
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.GenerateResource.cache
+C:\berry\Programing\OBJECT ORIENTED PROGRAMMING LAB\OOP SEMESTER PROJECT 2021\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.admin.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.developers.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Employee.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Form1.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Overview.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Reservations.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_cust_login.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_login.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.exe.config
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.exe
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.pdb
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Memory.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Memory.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Properties.Resources.resources
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CopyComplete
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project Hotel_Mangement_System.exe
+C:\Users\DELL\Documents\fix rename\fix\new\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project Hotel_Mangement_System.pdb
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.AssemblyReference.cache
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.SuggestedBindingRedirects.cache
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project Hotel_Mangement_System.exe
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project Hotel_Mangement_System.pdb
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.exe.config
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.exe
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.pdb
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Buffers.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Memory.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Numerics.Vectors.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Encodings.Web.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Json.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.ValueTuple.dll
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Buffers.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Memory.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Numerics.Vectors.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Encodings.Web.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Json.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.ValueTuple.xml
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.admin.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.developers.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Employee.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Form1.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Overview.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Properties.Resources.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Reservations.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_cust_login.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_login.resources
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.GenerateResource.cache
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CoreCompileInputs.cache
+C:\berry\d\project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CopyComplete
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.exe.config
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.exe
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\OOP_Project Hotel_Mangement_System.pdb
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Buffers.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Memory.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Numerics.Vectors.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Encodings.Web.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Json.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.ValueTuple.dll
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Buffers.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Memory.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Numerics.Vectors.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Encodings.Web.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Text.Json.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\bin\Debug\System.ValueTuple.xml
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.AssemblyReference.cache
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.SuggestedBindingRedirects.cache
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.admin.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.developers.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Employee.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Form1.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Overview.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Properties.Resources.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.Reservations.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_cust_login.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.UserControl_login.resources
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.GenerateResource.cache
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CoreCompileInputs.cache
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project_Hotel_Mangement_System.csproj.CopyComplete
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project Hotel_Mangement_System.exe
+C:\berry\d\Semester 04 DBS Lab Project\OOP_Project Hotel_Mangement_System - original\OOP_Project Hotel_Mangement_System\obj\Debug\OOP_Project Hotel_Mangement_System.pdb
